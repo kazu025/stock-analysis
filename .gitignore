@@ -13,3 +13,6 @@ __pycache__/
 03_screening/large_scale_screen_result_enriched.csv
 03_screening/swing_trade_candidates.csv
 03_screening/data_j.xlsx
+
+# スクリプトディレクトリ
+/99-scripts/
