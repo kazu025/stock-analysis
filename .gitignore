@@ -13,6 +13,17 @@ __pycache__/
 03_screening/large_scale_screen_result_enriched.csv
 03_screening/swing_trade_candidates.csv
 03_screening/data_j.xlsx
+04_screening_ma/ma25_cross_approaching.csv
+04_screening_ma/ma25_cross_review_candidates.csv
+04_screening_ma/ma25_flat_below_ma75.csv
+04_screening_ma/ma25_review_second_screen.csv
 
-# スクリプトディレクトリ
+
+
+
+# chart
+04_screening_ma/charts/
+
+# 
 /99-scripts/
+/data/
