@@ -17,12 +17,13 @@ __pycache__/
 04_screening_ma/ma25_cross_review_candidates.csv
 04_screening_ma/ma25_flat_below_ma75.csv
 04_screening_ma/ma25_review_second_screen.csv
-
+05_disp_charts/ma75_slope_nonnegative.csv
 
 
 
 # chart
 04_screening_ma/charts/
+05_disp_charts/charts_ma75_nonnegative
 
 # 
 /99-scripts/
